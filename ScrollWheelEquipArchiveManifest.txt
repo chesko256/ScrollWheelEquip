@@ -1,0 +1,10 @@
+readmes\ScrollWheelEquip_changelog.txt
+readmes\ScrollWheelEquip_license.txt
+readmes\ScrollWheelEquip_readme.txt
+Interface\ScrollWheelEquip\logo.dds
+Interface\Translations\ScrollWheelEquip_ENGLISH.txt
+Scripts\CommonArrayHelper.pex
+Scripts\_WSW_PlayerAlias.pex
+Scripts\_WSW_SkyUIMCM.pex
+Scripts\Source\_WSW_PlayerAlias.psc
+Scripts\Source\_WSW_SkyUIMCM.psc
