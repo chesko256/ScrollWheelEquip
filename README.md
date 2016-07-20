@@ -1,4 +1,5 @@
-# ScrollWheelEquip
+# Scroll Wheel Equip
+An FPS-Style Equipment Switching Mod for Skyrim.
 
 ## DESCRIPTION
 
