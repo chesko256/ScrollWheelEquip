@@ -32,6 +32,7 @@ When holding one of the hotkeys, your camera 1st / 3rd person switch controls wi
 ## COMPATIBILITY
 
 **Wearable Lanterns**: If you use the Carried option, it is suggested that you disable "Automatically Drop Lit Lanterns" to prevent dropping your lantern when scrolling the left hand.    
+
 **Mods that add their own carried lights / torches**: These light items won't be detected and won't be switched to when scrolling the left hand. Only vanilla torches are supported.
 
 Otherwise, the answer is "yes, it's compatible". If you find something that isn't, please report it.
