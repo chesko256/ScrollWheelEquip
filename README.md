@@ -1,25 +1,21 @@
 # ScrollWheelEquip
 
-DESCRIPTION
-===========
+## DESCRIPTION
 
 **Scroll Wheel Equip** is a first person shooter-style weapon and equipment switching mod, allowing you to scroll through available gear using your mouse's scroll wheel. It was inspired by a post by /u/blastmafia on the /r/skyrimmods subreddit.
 
 
-INSTALL
-=======
+## INSTALL
 
 Use a mod manager. **DO NOT** UNPACK THE BSA ARCHIVE. If you choose to not follow either of these instructions, I will not help you.
 
 
-REQUIREMENTS
-============
+## REQUIREMENTS
 
 SkyUI 4.1+ and SKSE 1.7.3+ required. SkyUI-Away is OK.
 
 
-HOW TO USE
-==========
+## HOW TO USE
 
 Open the Mod Configuration Menu and set a hotkey for Enable Equipment Scrolling for the left or right hands (or both). When holding this hotkey, you can use your mouse scroll wheel to quickly switch between your weapons (including unarmed / fists) and magic staves in your inventory.
 
@@ -32,8 +28,7 @@ Two-handed weapons and bows can sometimes cause undesirable behavior (unequippin
 When holding one of the hotkeys, your camera 1st / 3rd person switch controls will be temporarily disabled. When you release the hotkey, normal camera switch controls will be re-enabled. The hotkey does not prevent camera zooming if you are already in 3rd person view. The intended audience of this mod are players that play primarily in 1st person mode.
 
 
-COMPATIBILITY
-=============
+## COMPATIBILITY
 
 **Wearable Lanterns**: If you use the Carried option, it is suggested that you disable "Automatically Drop Lit Lanterns" to prevent dropping your lantern when scrolling the left hand.
 **Mods that add their own carried lights / torches**: These light items won't be detected and won't be switched to when scrolling the left hand. Only vanilla torches are supported.
@@ -41,8 +36,7 @@ COMPATIBILITY
 Otherwise, the answer is "yes, it's compatible". If you find something that isn't, please report it.
 
 
-TROUBLESHOOTING
-===============
+## TROUBLESHOOTING
 
 *"I pressed the hotkey and started scrolling, but my camera zoomed out anyway."*
 
@@ -61,8 +55,7 @@ It can take some time for SkyUI to pick up and register new menus. Give it at le
 Make sure you followed the installation instructions. This is a fairly simple mod; if nothing shows up when you start even after giving things a chance to register, you made an installation mistake and must resolve it. This isn't a problem with the mod itself.
 
 
-FAQ
-===
+## FAQ
 
 *"Can I add my own features to the mod or change it, and then distribute it?"*
 
@@ -83,13 +76,11 @@ No, sorry. What you see is what you get. I consider the mod to be functionally c
 If it's trivial, possibly. If I decide not to do it, you can do it. See above for feature additions and changes.
 
 
-CONSOLE SUPPORT
-===============
+## CONSOLE SUPPORT
 
 This mod will not be made available for consoles as it relies heavily on features enabled by SKSE in order to function. If I could have created it without relying on SKSE, I would have already done so.
 
 
-UNINSTALL
-=========
+## UNINSTALL
 
 You can uninstall the mod at any time without taking any special steps.
