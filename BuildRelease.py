@@ -31,6 +31,9 @@ else:
     os.mkdir(dirname)
 
 os.makedirs(dirname + "/readmes")
+os.makedirs(dirname + "/Interface/Translations")
+os.makedirs(dirname + "/Interface/ScrollWheelEquip")
+os.makedirs(dirname + "/Scripts/Source")
 
 # Copy the project files
 print "Copying project files..."
