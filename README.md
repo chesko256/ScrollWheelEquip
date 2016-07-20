@@ -89,3 +89,5 @@ This mod will not be made available for consoles as it relies heavily on feature
 ## UNINSTALL
 
 You can uninstall the mod at any time without taking any special steps.
+
+Icons in logo courtesy of http://icons8.com
