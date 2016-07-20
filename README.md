@@ -64,6 +64,10 @@ This mod is distributed under the MIT license. The MIT license permits you to "u
 
 If it would be useful for your development, you can also fork the existing GitHub repo in order to do your development. It's located here: https://github.com/chesko256/ScrollWheelEquip
 
+*"Can I translate the mod and redistribute it?"*
+
+Yes. See above regarding feature additions and changes.
+
 *"Will you make a version that can scroll through my spells?"*
 
 I'm not planning on it right now. See above for feature additions and changes.

@@ -27,14 +27,14 @@ if os.path.isdir(tempdir):
     print "Removing old temp directory..."
     shutil.rmtree(".\\tmp")
 
-os.makedirs('./tmp/readmes')
-os.makedirs('./tmp/Interface/Translations')
-os.makedirs('./tmp/Interface/ScrollWheelEquip')
-os.makedirs('./tmp/Scripts/Source')
+os.makedirs('./tmp/Data/readmes')
+os.makedirs('./tmp/Data/Interface/Translations')
+os.makedirs('./tmp/Data/Interface/ScrollWheelEquip')
+os.makedirs('./tmp/Data/Scripts/Source')
 
 # Copy the project files
 print "Copying project files..."
-with open("./ScrollWheelEquip/FrostfallArchiveManifest.txt") as manifest:
+with open("./ScrollWheelEquip/ScrollWheelEquipArchiveManifest.txt") as manifest:
     lines = manifest.readlines()
     for line in lines:
         shutil.copy(".\\ScrollWheelEquip\\" + line.rstrip('\n'), tempdir + line.rstrip('\n'))

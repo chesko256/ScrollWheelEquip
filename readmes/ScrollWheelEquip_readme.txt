@@ -78,19 +78,23 @@ FAQ
 
 This mod is distributed under the MIT license. The MIT license permits you to "use, copy, modify, merge, publish, distribute, sublicense" the "software". You can take this mod and change it and reupload it without any permission from me, for any reason. Please see ScrollWheelEquip_license.txt for more information. You should read the license and understand it, as it is not without some restriction. The MIT license was meant to be read by ordinary people, unlike other licenses that are very complex.
 
+"Can I translate the mod and redistribute it?"
+
+Yes. See above regarding feature additions and changes.
+
 If it would be useful for your development, you can also fork the existing GitHub repo in order to do your development. It's located here: https://github.com/chesko256/ScrollWheelEquip
 
 "Will you make a version that can scroll through my spells?"
 
-I'm not planning on it right now. See above for feature additions and changes.
+I'm not planning on it right now. See above regarding feature additions and changes.
 
 "Will you make it so that scrolling up is the left hand / scrolling down is the right hand / make it so that NOT holding the hotkey scrolls / some other very specific alternate control method?"
 
-No, sorry. What you see is what you get. I consider the mod to be functionally complete. I think it works fairly well and intuitively as it is. See above for feature additions and changes.
+No, sorry. What you see is what you get. I consider the mod to be functionally complete. I think it works fairly well and intuitively as it is. See above regarding feature additions and changes.
 
 "My favorite mod isn't compatible, for whatever reason. Will you make it compatible?"
 
-If it's trivial, possibly. If I decide not to do it, you can do it. See above for feature additions and changes.
+If it's trivial, possibly. If I decide not to do it, you can do it. See above regarding feature additions and changes.
 
 
 CONSOLE SUPPORT
